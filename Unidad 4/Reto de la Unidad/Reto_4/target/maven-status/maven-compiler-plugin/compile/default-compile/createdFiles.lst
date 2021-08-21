@@ -1,0 +1,11 @@
+co\edu\utp\misiontic2022\c2\sjcr\reto4\model\vo\ProyectoBancoVo.class
+co\edu\utp\misiontic2022\c2\sjcr\reto4\controller\ReportesController.class
+co\edu\utp\misiontic2022\c2\sjcr\reto4\model\vo\DeudasPorProyectoVo.class
+co\edu\utp\misiontic2022\c2\sjcr\reto4\model\dao\ComprasDeLiderDao.class
+App.class
+co\edu\utp\misiontic2022\c2\sjcr\reto4\model\dao\DeudasPorProyectoDao.class
+co\edu\utp\misiontic2022\c2\sjcr\reto4\model\dao\ProyectoBancoDao.class
+co\edu\utp\misiontic2022\c2\sjcr\reto4\util\JDBCUtilities.class
+co\edu\utp\misiontic2022\c2\sjcr\reto4\view\ReportesView.class
+co\edu\utp\misiontic2022\c2\sjcr\reto4\model\vo\ComprasDeLiderVo.class
+.netbeans_automatic_build
